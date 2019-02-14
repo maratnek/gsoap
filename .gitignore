@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/autom4te.cache
+/.xpce
+/gsoap/.deps
+/gsoap/bin/win32/source/build
+/gsoap/bin/x64/source/build
+/gsoap/bin/x64
+/gsoap/bin/win32
+/gsoap/bin/x64_calc/source/build
+/gsoap/bin/x64_calc/source/build
+/gsoap/bin/x64_calc/source/build
